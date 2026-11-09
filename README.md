@@ -17,7 +17,9 @@ pip install -r requirements.txt
 uvicorn server.app:app --port 8000
 ```
 
-Open http://localhost:8000 on a phone, or in a narrow browser window. The cache in `cache/` is the book already read, so the desk opens immediately.
+The desk is live at https://finn-lilac-xi.vercel.app — open it on a phone.
+
+Locally:
 
 To read the book again from the exchanges:
 
