@@ -1,0 +1,31 @@
+{
+  "investor": "Meera Shah",
+  "note": "A mock book for the demo. Research names sit outside the portfolio on purpose.",
+  "portfolio": [
+    {"symbol": "RELIANCE", "name": "Reliance", "sector": "Energy and retail", "themes": ["conglomerate", "telecom", "retail"], "related": {"competitors": [], "suppliers": [], "customers": []}},
+    {"symbol": "TCS", "name": "TCS", "sector": "IT services", "themes": ["it services"], "related": {"competitors": ["INFY"], "suppliers": [], "customers": ["HDFCBANK", "ICICIBANK"]}},
+    {"symbol": "HDFCBANK", "name": "HDFC Bank", "sector": "Banks", "themes": ["banks"], "related": {"competitors": ["ICICIBANK"], "suppliers": [], "customers": []}},
+    {"symbol": "ICICIBANK", "name": "ICICI Bank", "sector": "Banks", "themes": ["banks", "capex"], "related": {"competitors": ["HDFCBANK"], "suppliers": [], "customers": []}},
+    {"symbol": "INFY", "name": "Infosys", "sector": "IT services", "themes": ["it services"], "related": {"competitors": ["TCS"], "suppliers": [], "customers": []}},
+    {"symbol": "LT", "name": "L&T", "sector": "Infrastructure", "themes": ["infra", "capex"], "related": {"competitors": [], "suppliers": [], "customers": []}},
+    {"symbol": "SUNPHARMA", "name": "Sun Pharma", "sector": "Pharma", "themes": ["pharma"], "related": {"competitors": ["DRREDDY"], "suppliers": [], "customers": []}},
+    {"symbol": "TITAN", "name": "Titan", "sector": "Consumer", "themes": ["consumer", "retail"], "related": {"competitors": [], "suppliers": [], "customers": []}},
+    {"symbol": "BAJFINANCE", "name": "Bajaj Finance", "sector": "NBFC", "themes": ["nbfc", "rural lending"], "related": {"competitors": [], "suppliers": [], "customers": []}},
+    {"symbol": "TMPV", "name": "Tata Motors PV", "sector": "Autos", "themes": ["autos"], "related": {"competitors": ["MARUTI"], "suppliers": ["MOTHERSON"], "customers": []}},
+    {"symbol": "ASIANPAINT", "name": "Asian Paints", "sector": "Consumer", "themes": ["consumer"], "related": {"competitors": [], "suppliers": [], "customers": []}},
+    {"symbol": "HINDALCO", "name": "Hindalco", "sector": "Metals", "themes": ["metals"], "related": {"competitors": [], "suppliers": [], "customers": []}},
+    {"symbol": "PIDILITIND", "name": "Pidilite", "sector": "Specialty chemicals", "themes": ["specialty chemicals", "consumer"], "related": {"competitors": [], "suppliers": [], "customers": []}},
+    {"symbol": "DIXON", "name": "Dixon", "sector": "Electronics", "themes": ["electronics", "semiconductors"], "related": {"competitors": ["KAYNES"], "suppliers": [], "customers": []}},
+    {"symbol": "POLYCAB", "name": "Polycab", "sector": "Manufacturing", "themes": ["manufacturing", "capex"], "related": {"competitors": [], "suppliers": [], "customers": []}},
+    {"symbol": "MARUTI", "name": "Maruti", "sector": "Autos", "themes": ["autos"], "related": {"competitors": ["TMPV"], "suppliers": ["MOTHERSON"], "customers": []}},
+    {"symbol": "NESTLEIND", "name": "Nestle", "sector": "FMCG", "themes": ["fmcg", "rural"], "related": {"competitors": [], "suppliers": [], "customers": []}},
+    {"symbol": "DRREDDY", "name": "Dr Reddy's", "sector": "Pharma", "themes": ["pharma"], "related": {"competitors": ["SUNPHARMA"], "suppliers": [], "customers": []}}
+  ],
+  "research": [
+    {"symbol": "ETERNAL", "name": "Eternal", "sector": "Consumer internet", "themes": ["consumer internet"], "related": {"competitors": [], "suppliers": [], "customers": []}},
+    {"symbol": "KAYNES", "name": "Kaynes", "sector": "Electronics", "themes": ["electronics", "semiconductors"], "related": {"competitors": ["DIXON"], "suppliers": [], "customers": []}},
+    {"symbol": "SRF", "name": "SRF", "sector": "Specialty chemicals", "themes": ["specialty chemicals"], "related": {"competitors": ["PIDILITIND"], "suppliers": [], "customers": []}},
+    {"symbol": "VBL", "name": "Varun Beverages", "sector": "Beverages", "themes": ["beverages", "consumer"], "related": {"competitors": [], "suppliers": [], "customers": []}},
+    {"symbol": "TMCV", "name": "Tata Motors CV", "sector": "Autos", "themes": ["autos", "capex"], "related": {"competitors": [], "suppliers": ["MOTHERSON"], "customers": []}}
+  ]
+}

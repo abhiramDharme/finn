@@ -1,0 +1,324 @@
+{
+  "source": "synthetic",
+  "investor": {
+    "name": "Meera Shah",
+    "role": "Public-markets investor",
+    "gave_finn": "A private notebook of people she has met since 2023, plus her own colleges and her old employer. No social account is connected.",
+    "education": [
+      {"school": "IIT Delhi", "program": "B.Tech", "year": 2014},
+      {"school": "IIM Ahmedabad", "program": "PGP", "year": 2016}
+    ],
+    "employers": [
+      {"org": "Avendus", "title": "Analyst", "from": 2016, "to": 2019}
+    ]
+  },
+  "people": [
+    {
+      "id": "arjun-mehta",
+      "name": "Arjun Mehta",
+      "education": [{"school": "IIT Delhi", "program": "B.Tech", "year": 2014}],
+      "roles": [
+        {"org": "Titan Company", "symbol": "TITAN", "aliases": ["Titan", "Titan Company Limited"], "title": "Category head, jewellery", "from": 2019, "to": null}
+      ],
+      "themes": ["consumer", "retail"],
+      "met": "2014-05-01",
+      "met_note": "IIT Delhi batchmate. You have stayed in touch since.",
+      "last_touch": "2026-08-02",
+      "last_note": "Coffee in Mumbai, about studded jewellery demand."
+    },
+    {
+      "id": "neha-kapoor",
+      "name": "Neha Kapoor",
+      "education": [{"school": "St Xavier's College", "program": "BA", "year": 2012}],
+      "roles": [
+        {"org": "Asian Paints", "symbol": "ASIANPAINT", "aliases": ["Asian Paints Limited", "Asian Paints Ltd"], "title": "Regional sales manager", "from": 2017, "to": 2023},
+        {"org": "Pidilite Industries", "symbol": "PIDILITIND", "aliases": ["Pidilite", "Pidilite Industries Limited"], "title": "Sales head, construction chemicals", "from": 2023, "to": null}
+      ],
+      "themes": ["consumer", "specialty chemicals"],
+      "met": "2024-02-11",
+      "met_note": "Consumer conference in Mumbai, while she was still at Asian Paints.",
+      "last_touch": "2025-11-20",
+      "last_note": "Short call on rural repainting."
+    },
+    {
+      "id": "rahul-iyer",
+      "name": "Rahul Iyer",
+      "education": [{"school": "IIM Ahmedabad", "program": "PGP", "year": 2016}],
+      "roles": [
+        {"org": "Hindustan Unilever", "symbol": "HINDUNILVR", "aliases": ["Hindustan Unilever Limited", "HUL", "Unilever"], "title": "Finance manager", "from": 2016, "to": 2021},
+        {"org": "Nestle India", "symbol": "NESTLEIND", "aliases": ["Nestle", "Nestle India Limited"], "title": "Finance controller", "from": 2021, "to": null}
+      ],
+      "themes": ["fmcg"],
+      "met": "2016-04-01",
+      "met_note": "IIM Ahmedabad section mate.",
+      "last_touch": "2026-06-18",
+      "last_note": "Lunch. He was worried about commodity costs in the nutrition portfolio."
+    },
+    {
+      "id": "vikram-desai",
+      "name": "Vikram Desai",
+      "education": [{"school": "NMIMS", "program": "MBA", "year": 2015}],
+      "roles": [
+        {"org": "Avendus", "symbol": null, "aliases": ["Avendus Capital"], "title": "Associate", "from": 2015, "to": 2019},
+        {"org": "Bajaj Finance", "symbol": "BAJFINANCE", "aliases": ["Bajaj Finance Limited"], "title": "Treasury", "from": 2020, "to": null}
+      ],
+      "themes": ["nbfc", "rural lending"],
+      "met": "2017-01-15",
+      "met_note": "Former colleague at Avendus.",
+      "last_touch": "2026-09-15",
+      "last_note": "He walked you through how they fund the two-wheeler book."
+    },
+    {
+      "id": "priya-nair",
+      "name": "Priya Nair",
+      "education": [{"school": "NIT Trichy", "program": "B.Tech", "year": 2013}],
+      "roles": [
+        {"org": "Samvardhana Motherson", "symbol": "MOTHERSON", "aliases": ["Motherson", "Motherson Group", "Samvardhana Motherson International"], "title": "Business development, passenger vehicles", "from": 2018, "to": null}
+      ],
+      "themes": ["autos"],
+      "met": "2025-01-18",
+      "met_note": "Introduced on a supplier visit. Motherson sells into Tata Motors and Maruti.",
+      "last_touch": "2026-01-18",
+      "last_note": "The plant visit. You have not spoken since."
+    },
+    {
+      "id": "sanjay-rao",
+      "name": "Sanjay Rao",
+      "education": [{"school": "IIT Delhi", "program": "B.Tech", "year": 2013}],
+      "roles": [
+        {"org": "Reliance Jio", "symbol": "RELIANCE", "aliases": ["Jio", "Reliance Industries", "Reliance Industries Limited"], "title": "Product, consumer mobility", "from": 2018, "to": 2024}
+      ],
+      "themes": ["telecom", "retail", "conglomerate"],
+      "met": "2013-08-01",
+      "met_note": "IIT Delhi, a year junior. You met him properly at an alumni dinner in 2023.",
+      "last_touch": "2026-06-01",
+      "last_note": "He had just left Jio and was deciding what to build."
+    },
+    {
+      "id": "ananya-krishnan",
+      "name": "Ananya Krishnan",
+      "education": [{"school": "IIT Madras", "program": "B.Tech", "year": 2016}],
+      "roles": [
+        {"org": "Dixon Technologies", "symbol": "DIXON", "aliases": ["Dixon", "Dixon Technologies (India) Limited"], "title": "Process engineer", "from": 2018, "to": 2022},
+        {"org": "Kaynes Technology", "symbol": "KAYNES", "aliases": ["Kaynes", "Kaynes Technology India Limited"], "title": "Process engineering", "from": 2022, "to": null}
+      ],
+      "themes": ["electronics", "semiconductors"],
+      "met": "2025-12-02",
+      "met_note": "Kaynes plant visit.",
+      "last_touch": "2025-12-02",
+      "last_note": "She walked the SMT line. You have not followed up."
+    },
+    {
+      "id": "farhan-qureshi",
+      "name": "Farhan Qureshi",
+      "education": [{"school": "Jamia Millia Islamia", "program": "B.Tech", "year": 2009}],
+      "roles": [
+        {"org": "Dixon Technologies", "symbol": "DIXON", "aliases": ["Dixon", "Dixon Technologies (India) Limited"], "title": "Operations head, mobile", "from": 2016, "to": null}
+      ],
+      "themes": ["electronics", "semiconductors"],
+      "met": "2026-07-19",
+      "met_note": "He hosted your Dixon visit.",
+      "last_touch": "2026-07-19",
+      "last_note": "You still owe him a note on what you thought of the Noida line."
+    },
+    {
+      "id": "leela-subramanian",
+      "name": "Leela Subramanian",
+      "education": [{"school": "Manipal", "program": "PharmD", "year": 2012}],
+      "roles": [
+        {"org": "Dr Reddy's Laboratories", "symbol": "DRREDDY", "aliases": ["Dr. Reddy's", "Dr Reddy's", "Dr. Reddy's Laboratories"], "title": "Regulatory affairs", "from": 2015, "to": 2022},
+        {"org": "Sun Pharmaceutical", "symbol": "SUNPHARMA", "aliases": ["Sun Pharma", "Sun Pharmaceutical Industries", "Sun Pharmaceutical Industries Limited"], "title": "Medical affairs", "from": 2022, "to": null}
+      ],
+      "themes": ["pharma"],
+      "met": "2026-04-03",
+      "met_note": "Pharma dinner organised by a fund you know.",
+      "last_touch": "2026-04-03",
+      "last_note": "She was careful and specific about USFDA observations. Worth keeping."
+    },
+    {
+      "id": "kabir-malhotra",
+      "name": "Kabir Malhotra",
+      "education": [{"school": "IIM Ahmedabad", "program": "PGP", "year": 2014}],
+      "roles": [
+        {"org": "Larsen & Toubro", "symbol": "LT", "aliases": ["L&T", "Larsen & Toubro Limited", "Larsen and Toubro"], "title": "Project finance liaison", "from": 2014, "to": 2019}
+      ],
+      "themes": ["infra", "capex"],
+      "met": "2016-04-01",
+      "met_note": "IIM Ahmedabad, two years senior. You asked him for a coffee after a class he guest-taught.",
+      "last_touch": "2025-08-11",
+      "last_note": "He is now at an infra credit fund and was sour on competitive bidding."
+    },
+    {
+      "id": "ishita-banerjee",
+      "name": "Ishita Banerjee",
+      "education": [{"school": "Lady Shri Ram College", "program": "BA", "year": 2014}],
+      "roles": [
+        {"org": "ICICI Bank", "symbol": "ICICIBANK", "aliases": ["ICICI Bank Limited", "ICICI Bank Ltd"], "title": "Corporate banking", "from": 2017, "to": null}
+      ],
+      "themes": ["banks", "capex"],
+      "covers": ["LT", "POLYCAB", "ICICIBANK"],
+      "met": "2024-11-08",
+      "met_note": "A capex roundtable. She covers the contractors and cable makers from the bank side.",
+      "last_touch": "2026-10-02",
+      "last_note": "She said Polycab's working-capital ask had got shorter."
+    },
+    {
+      "id": "dev-patel",
+      "name": "Dev Patel",
+      "education": [{"school": "MS University Baroda", "program": "BE", "year": 2011}],
+      "roles": [
+        {"org": "Hindalco Industries", "symbol": "HINDALCO", "aliases": ["Hindalco", "Hindalco Industries Limited"], "title": "Commercial, aluminium", "from": 2019, "to": null}
+      ],
+      "themes": ["metals"],
+      "met": "2026-02-14",
+      "met_note": "A metals conference in Delhi.",
+      "last_touch": "2026-02-14",
+      "last_note": "You have not spoken since the conference."
+    },
+    {
+      "id": "rhea-chawla",
+      "name": "Rhea Chawla",
+      "education": [{"school": "Delhi University", "program": "B.Com", "year": 2015}],
+      "roles": [
+        {"org": "Tata Consultancy Services", "symbol": "TCS", "aliases": ["TCS", "Tata Consultancy Services Limited"], "title": "Engagement manager, BFSI", "from": 2018, "to": null}
+      ],
+      "themes": ["it services", "banks"],
+      "covers": ["HDFCBANK", "ICICIBANK", "TCS"],
+      "met": "2025-09-28",
+      "met_note": "Introduced by a banker. She runs a core-banking program, not a product pitch.",
+      "last_touch": "2026-09-28",
+      "last_note": "Useful on what the large banks are actually spending."
+    },
+    {
+      "id": "mohit-agarwal",
+      "name": "Mohit Agarwal",
+      "education": [{"school": "ICT Mumbai", "program": "B.Chem Eng", "year": 2009}],
+      "roles": [
+        {"org": "SRF", "symbol": "SRF", "aliases": ["SRF Limited"], "title": "Process engineer, fluorochemicals", "from": 2011, "to": 2016},
+        {"org": "Pidilite Industries", "symbol": "PIDILITIND", "aliases": ["Pidilite", "Pidilite Industries Limited"], "title": "R&D, adhesives", "from": 2016, "to": 2024}
+      ],
+      "themes": ["specialty chemicals"],
+      "met": "2025-03-12",
+      "met_note": "Vapi plant visit. He had already left Pidilite and was advising two specialty firms.",
+      "last_touch": "2025-03-12",
+      "last_note": "Best technical conversation in the notebook. You let it go cold."
+    },
+    {
+      "id": "sana-sheikh",
+      "name": "Sana Sheikh",
+      "education": [{"school": "Christ University", "program": "BBA", "year": 2016}],
+      "roles": [
+        {"org": "Varun Beverages", "symbol": "VBL", "aliases": ["Varun Beverages Limited"], "title": "Distributor management", "from": 2020, "to": null}
+      ],
+      "themes": ["beverages", "consumer"],
+      "met": "2026-05-09",
+      "met_note": "A bottling-plant visit outside Jaipur.",
+      "last_touch": "2026-05-09",
+      "last_note": "She knows which territories are actually taking volume."
+    },
+    {
+      "id": "aditya-jain",
+      "name": "Aditya Jain",
+      "education": [{"school": "BITS Pilani", "program": "B.E.", "year": 2011}],
+      "roles": [
+        {"org": "Maruti Suzuki", "symbol": "MARUTI", "aliases": ["Maruti", "Maruti Suzuki India", "Maruti Suzuki India Limited"], "title": "Product planning", "from": 2015, "to": 2023}
+      ],
+      "themes": ["autos"],
+      "met": "2026-08-30",
+      "met_note": "Now at a components startup. You met at an auto forum.",
+      "last_touch": "2026-08-30",
+      "last_note": "He is frank about what Maruti will and will not outsource."
+    },
+    {
+      "id": "nandini-rao",
+      "name": "Nandini Rao",
+      "education": [{"school": "NLSIU", "program": "BA LLB", "year": 2011}],
+      "roles": [
+        {"org": "Independent chambers", "symbol": null, "aliases": [], "title": "Securities disputes", "from": 2014, "to": null}
+      ],
+      "themes": ["litigation"],
+      "met": "2024-12-14",
+      "met_note": "IIT Delhi alumni dinner. She does exchange and SEBI matters, not general corporate.",
+      "last_touch": "2025-01-20",
+      "last_note": "You meant to call her the next time a portfolio name took an order. You didn't."
+    },
+    {
+      "id": "tara-menon",
+      "name": "Tara Menon",
+      "education": [{"school": "IIT Madras", "program": "B.Tech", "year": 2012}],
+      "roles": [
+        {"org": "DPIIT", "symbol": null, "aliases": ["Department for Promotion of Industry and Internal Trade"], "title": "Electronics policy", "from": 2018, "to": 2024}
+      ],
+      "themes": ["electronics", "semiconductors"],
+      "met": "2026-03-02",
+      "met_note": "A policy dinner. She wrote parts of the electronics PLI fine print and has since left government.",
+      "last_touch": "2026-03-02",
+      "last_note": "The right person for 'does this capex actually qualify', not for a plant tour."
+    },
+    {
+      "id": "omar-farooq",
+      "name": "Omar Farooq",
+      "education": [{"school": "Aligarh Muslim University", "program": "B.Com", "year": 2010}],
+      "roles": [
+        {"org": "Nestle India", "symbol": "NESTLEIND", "aliases": ["Nestle", "Nestle India Limited"], "title": "Rural sales", "from": 2016, "to": null}
+      ],
+      "themes": ["fmcg", "rural"],
+      "met": "2025-06-18",
+      "met_note": "Field day in western UP, arranged by Rahul.",
+      "last_touch": "2025-06-18",
+      "last_note": "He will tell you if a volume claim shows up in the kirana, which the call will not."
+    },
+    {
+      "id": "karan-bhatia",
+      "name": "Karan Bhatia",
+      "education": [{"school": "IIM Ahmedabad", "program": "PGP", "year": 2016}],
+      "roles": [
+        {"org": "Infosys", "symbol": "INFY", "aliases": ["Infosys Limited"], "title": "HR business partner", "from": 2016, "to": 2020}
+      ],
+      "themes": ["it services", "people"],
+      "met": "2016-04-01",
+      "met_note": "IIM Ahmedabad section mate. Now CHRO of a private IT firm.",
+      "last_touch": "2026-07-01",
+      "last_note": "Useful when a technology company changes who runs the place."
+    },
+    {
+      "id": "aisha-khan",
+      "name": "Aisha Khan",
+      "education": [{"school": "Ashoka University", "program": "BA", "year": 2018}],
+      "roles": [
+        {"org": "Eternal", "symbol": "ETERNAL", "aliases": ["Zomato", "Zomato Limited", "Eternal Limited"], "title": "City operations", "from": 2019, "to": 2024}
+      ],
+      "themes": ["consumer internet"],
+      "met": "2025-09-14",
+      "met_note": "She left Eternal and is at a logistics startup. You met through a founder.",
+      "last_touch": "2025-09-14",
+      "last_note": "She has opinions about contribution margins that the shareholder letter sands down."
+    },
+    {
+      "id": "mehul-shah",
+      "name": "Mehul Shah",
+      "education": [{"school": "IIM Ahmedabad", "program": "PGP", "year": 2004}],
+      "roles": [
+        {"org": "Asian Paints", "symbol": "ASIANPAINT", "aliases": ["Asian Paints Limited", "Asian Paints Ltd"], "title": "Finance, decorative", "from": 2012, "to": 2020}
+      ],
+      "themes": ["consumer"],
+      "met": "2018-01-20",
+      "met_note": "An IIM Ahmedabad senior you were introduced to for a paints question. Now a family office.",
+      "last_touch": "2024-12-02",
+      "last_note": "You have not spoken in almost two years. He still replies."
+    },
+    {
+      "id": "adil-merchant",
+      "name": "Adil Merchant",
+      "education": [{"school": "Sydenham College", "program": "B.Com", "year": 2008}],
+      "roles": [
+        {"org": "HDFC Bank", "symbol": "HDFCBANK", "aliases": ["HDFC Bank Limited", "HDFC Bank Ltd"], "title": "Business banking", "from": 2014, "to": 2023}
+      ],
+      "themes": ["banks"],
+      "met": "2024-06-12",
+      "met_note": "An SME-lending dinner. He left the bank in 2023 and advises two smaller lenders.",
+      "last_touch": "2025-05-02",
+      "last_note": "He knows the business-banking franchise from the inside. You have not called since last summer."
+    }
+  ]
+}
